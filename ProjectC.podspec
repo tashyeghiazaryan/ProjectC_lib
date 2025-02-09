@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = "ProjectC"
-  spec.version      = "1.0.1"
+  spec.version      = "1.0.2"
   spec.summary      = "ProjectC XCFramework for iOS and macOS."
   
   spec.description  = "ProjectC is an XCFramework for iOS devices, the iOS simulator, and macOS."
@@ -12,7 +12,7 @@ Pod::Spec.new do |spec|
   # spec.source       = { :http => "https://github.com/tashyeghiazaryan/ProjectC/download/ProjectC.xcframework.zip" }
   spec.source       = { :git => "https://github.com/tashyeghiazaryan/ProjectC_lib.git", :tag => spec.version.to_s }
   #s.source = { :git => 'https://github.com/Ar7Style/GTNetworkQualityChecker.git', :tag => s.version.to_s }
-  # https://github.com/tashyeghiazaryan/ProjectC/releases/tag/v1.0.1
+  # https://github.com/tashyeghiazaryan/ProjectC/releases/tag/v1.0.2
 
   # Use vendored_frameworks instead of source_files
   spec.vendored_frameworks = "ProjectC.xcframework"
@@ -21,8 +21,8 @@ Pod::Spec.new do |spec|
   spec.static_framework = true
   spec.pod_target_xcconfig = { 'OTHER_LDFLAGS' => '$(inherited) -ObjC' }
   spec.frameworks = 'UIKit', 'Foundation'
-  spec.source_files = '../ProjectC/ProjectC/*.{h,m}', '../SharedFolder/*.{h,m}'
-  spec.public_header_files = '../ProjectC/ProjectC/*.{h,m}', '../SharedFolder/*.{h,m}'
+  # spec.source_files = '../ProjectC/ProjectC/*.{h,m}', '../SharedFolder/*.{h,m}'
+  # spec.public_header_files = '../ProjectC/ProjectC/*.{h,m}', '../SharedFolder/*.{h,m}'
 
 
 

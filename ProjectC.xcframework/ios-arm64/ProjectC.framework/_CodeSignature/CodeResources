@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/CLogger.h</key>
 		<data>
-		1rF9JBH39ZOyfw3iMLmyfoacpvU=
+		2jgTIFtHZXnZBoegmY0Z4FcKNvQ=
 		</data>
 		<key>Headers/ProjectC.h</key>
 		<data>
@@ -14,11 +14,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		9acZDmCAhDIHBA9CCk6eFq1Z+lQ=
+		hBkwri1F73ZYY/XvVFMh5bNfX2A=
 		</data>
 		<key>LatinOCRResources.bundle/Info.plist</key>
 		<data>
-		b0pRXpCiohqBG8p9fDR+rQEmwg4=
+		nFGaDb7AKAbbVdoc0QIL0B9zXpI=
 		</data>
 		<key>LatinOCRResources.bundle/region_proposal_text_detector_tflite_gray_quantized.bincfg</key>
 		<data>
@@ -63,7 +63,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fJ70lrTb1N5iLejaRWlt9a6OvBf75XAmf2xlQ332l84=
+			J0QfJwg99OuYwubKtbVIXQzW058OKI6OZixMK7fKKsc=
 			</data>
 		</dict>
 		<key>Headers/ProjectC.h</key>
@@ -77,7 +77,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gwVPiAIkBDMGLnJi4GbNLEgiR4SGoLLRKoLgzT5rRt0=
+			O2d7lRQvkOrDKGP1kfsctDT0rnTdv+MD+Z95/xPqaC4=
 			</data>
 		</dict>
 		<key>LatinOCRResources.bundle/region_proposal_text_detector_tflite_gray_quantized.bincfg</key>

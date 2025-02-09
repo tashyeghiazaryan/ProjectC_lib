@@ -6,11 +6,11 @@
 	<dict>
 		<key>Resources/Info.plist</key>
 		<data>
-		0eZceUeN5v+pkBPALSTdLl1vViw=
+		eNU/kn5YXSeYjswhI2/LM9pZnOQ=
 		</data>
 		<key>Resources/LatinOCRResources.bundle/Contents/Info.plist</key>
 		<data>
-		QyLRWBa2RYD5XKMuyXbEQUmTt6g=
+		lVE0FuySyTlXUff99W/c5pJwe3E=
 		</data>
 		<key>Resources/LatinOCRResources.bundle/Contents/Resources/region_proposal_text_detector_tflite_gray_quantized.bincfg</key>
 		<data>
@@ -51,7 +51,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fJ70lrTb1N5iLejaRWlt9a6OvBf75XAmf2xlQ332l84=
+			J0QfJwg99OuYwubKtbVIXQzW058OKI6OZixMK7fKKsc=
 			</data>
 		</dict>
 		<key>Headers/ProjectC.h</key>
@@ -72,14 +72,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			GjKZKUbVFijLoO+hpO8Y2BghO/7HSl1/KyC9ybygFiM=
+			lzwDz1x9hpMB+H9OZA573zyntc4HEneiL6/M/nqdzpc=
 			</data>
 		</dict>
 		<key>Resources/LatinOCRResources.bundle/Contents/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mo5u/gIlk8v/j+GwMbR+9+Owb//8Cqc1rrnSe3odB3s=
+			yL6bh1mvMXACK2e+9G0xVguiU/Wc8sL2zCe164CClEc=
 			</data>
 		</dict>
 		<key>Resources/LatinOCRResources.bundle/Contents/Resources/region_proposal_text_detector_tflite_gray_quantized.bincfg</key>

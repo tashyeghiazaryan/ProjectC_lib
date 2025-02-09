@@ -13,6 +13,7 @@ NS_ASSUME_NONNULL_BEGIN
 
 -(void) functionC;
 - (NSString *)getURLConstantText;
+- (NSInteger)getAnyNumber;
 
 @end
 
